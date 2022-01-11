@@ -7,4 +7,6 @@
 <div>
 <a href = "mailto:tarciorodrigues0880@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tarcio-rodrigues-8187aa227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  
+  ![Snake animation](https://github.com/tarcio0880/tarcio0880/blob/output/github-contribution-grid-snake.svg)
 </div>
