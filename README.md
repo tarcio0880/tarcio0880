@@ -1,15 +1,10 @@
 ### Hi there 👋
 
-<!--
-**tarcio0880/tarcio0880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcio0880&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🎓 I am Tarcio Rodrigues, a Developer student, pursuing Systems Analysis and Development and will graduate in mid-2024.
+### Contatos:
 
-👨‍💻 I am really enthusiastic about learning new technology. 
-
-📈 Stats
-
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
-🔗 Links
-portfolio resume upwork linked-in dev.to github medium gmail instagram
+<div>
+<a href = "mailto:tarciorodrigues0880@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/tarcio-rodrigues-8187aa227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
