@@ -10,3 +10,4 @@
   
   ![Snake animation](https://github.com/tarcio0880/tarcio0880/blob/output/github-contribution-grid-snake.svg)
 </div>
+
