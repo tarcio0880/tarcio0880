@@ -1,13 +1,14 @@
-### Hi there 👋
+# Hi there! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcio0880&layout=compact)](https://github.com/tarcio0880)
+I'm Tarcio Rodrigues, a new member of the Vibe Code family embarking on an exciting journey in LLMs and AI engineering. 🚀
 
-### Contatos:
+## What I'm into
+I have a passion for exploring the realm of AI, automation, and building tools that simplify complex processes. If you share similar interests or have tips to share, I'm all ears!
 
-<div>
-<a href = "mailto:tarciorodrigues0880@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/tarcio-rodrigues-8187aa227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  
-  ![Snake animation](https://github.com/tarcio0880/tarcio0880/blob/output/github-contribution-grid-snake.svg)
-</div>
+## Tech Stack
+- Languages: Python, JavaScript
+- Frameworks: TensorFlow, PyTorch, React
+- Tools: Docker, Git
 
+## 📫 How to reach me
+Feel free to drop me an email at <tarciorodrigues0880@gmail.com>. Let's connect and share our coding adventures! 🌟
