@@ -1,3 +1,5 @@
-# Hello👋
+# Hi there 👋
 
-Welcome to my GitHub profile!
+
+- 🌱 Learning & building in public
+- 💡 Interested in AI and open source
